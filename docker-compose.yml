@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    container_name: bilet_satin
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html
+      - ./config/apache.conf:/etc/apache2/sites-available/000-default.conf
+    restart: unless-stopped

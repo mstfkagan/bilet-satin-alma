@@ -1,0 +1,7 @@
+# Veritabanı dosyasını yoksay
+/data/database.db
+
+# IDE ve işletim sistemi dosyaları
+.idea/
+.vscode/
+Thumbs.db
