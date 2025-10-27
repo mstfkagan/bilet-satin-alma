@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bilet Satın Alma Platformu
 
 Bu proje, PHP ve SQLite kullanılarak oluşturulmuş Docker tabanlı bir otobüs bileti satış platformudur.
@@ -36,3 +37,6 @@ Sistemi test etmek için aşağıdaki hesapları kullanabilirsiniz:
 * **Admin Hesabı:**
     * **E-posta:** `admin@example.com`
 
+=======
+# bilet-satin-alma
+>>>>>>> 1c4271d945ccc231041356f0f016ca2216812591
